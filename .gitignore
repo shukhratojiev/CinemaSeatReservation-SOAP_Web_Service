@@ -1,7 +1,8 @@
 .classpath
 .project
 target/
-pom.xml
+main/webapp/WEB-INF/web.xml
 .settings/
 src/test/
 src/main/resources
+*.jsp
