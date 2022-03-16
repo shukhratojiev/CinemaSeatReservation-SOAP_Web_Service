@@ -1,0 +1,7 @@
+.classpath
+.project
+target/
+pom.xml
+.settings/
+src/test/
+src/main/resources
